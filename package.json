@@ -1,0 +1,16 @@
+{
+  "name": "simple-timer-app",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Mwaaark/simple-timer-app",
+  "main": "app.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
